@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Surafel Yigezu and I'm a full-stack developer, from Ethiopia</p>
+<p align="left">My name is Surafel Yigezu and I'ma full-time full-stack freelance developer 👨‍💻, from Ethiopia.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>🎯 Goals: To be a good web developer<br>
+<p align="left">Working remotely since 2024 🚀<br>🎯 Goals: To be a good web developer<br>
 
 ###
 
