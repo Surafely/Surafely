@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Surafel Yigezu and I'ma full-time full-stack freelance developer 👨‍💻, from Ethiopia.</p>
+<p align="left">My name is Surafel Yigezu and I'm a full-time full-stack freelance developer 👨‍💻, from Ethiopia.</p>
 
 ###
 
